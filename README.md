@@ -11,4 +11,5 @@
 5.In Terminal รันคำสั่ง php artisan migrate:fresh --seed
 
 ERD
+
 ![ER Diagram](https://github.com/user-attachments/assets/5720412c-784c-4e85-9689-9752c3bc1ed8)
