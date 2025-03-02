@@ -6,7 +6,7 @@
 
 3.In Terminal รันคำสั่ง cp .env.example .env
 
-4.สร้างtable ใน phpmyadmin ชื่อ cryptotradingplatform
+4.สร้างtable ใน phpmyadmin ชื่อ cryptotrade
 
 5.In Terminal รันคำสั่ง php artisan migrate:fresh --seed
 
